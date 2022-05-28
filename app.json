@@ -1,9 +1,9 @@
 {
-  "name": "ᴀɴᴏɴʏᴍᴏᴜs ᴍᴜsɪᴄ",
+  "name": " Nightᴀɴᴏɴʏᴍᴏᴜs ᴍᴜsɪᴄ",
   "description": "A Telegram Bot to play audios and videos in telegram videochats.",
   "keywords": ["music", "voicechat", "telegram"],
-  "logo": "https://telegra.ph/file/d6ff45f5be2b42fcc2ffb.jpg",
-  "repository": "https://github.com/AnonymousR1025/AnonMusic",
+  "logo": "https://telegra.ph/file/026e77a12d5bcd7b980bc.jpg",
+  "repository": "https://github.com/Captainamarica/NightVission-Streamer-0.1",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
